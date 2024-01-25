@@ -1,0 +1,23 @@
+@media (min-width: 681px) {
+    .text-issue {
+        width: 800px;
+    }
+}
+
+
+
+.bottom-left {
+    position: relative;
+    bottom: 90px;
+    left: 100px;
+    color: white;
+    width: 200px;
+    height: auto;
+    background-color:Black;
+  }
+  footer {
+    position: sticky; 
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
